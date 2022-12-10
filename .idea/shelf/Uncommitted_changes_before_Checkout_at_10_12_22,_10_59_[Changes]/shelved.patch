@@ -1,0 +1,18 @@
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Default ignored files\n/shelf/\n/workspace.xml\n/javacv-platform-1.5.8-bin
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+--- a/.idea/.gitignore	(revision b2fef202599b4e7732483e8d476585e9982ab054)
++++ b/.idea/.gitignore	(date 1670665843990)
+@@ -1,4 +1,4 @@
+ # Default ignored files
+ /shelf/
+ /workspace.xml
+-/javacv-platform-1.5.8-bin
+\ No newline at end of file
++/javacv-platform-1.5.8-bin/
+\ No newline at end of file

@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="RunCustomFlappyBird" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="GameLogic" />
+    <module name="CustomFlappyBird" />
+    <option name="VM_PARAMETERS" value="--module-path $PROJECT_DIR$/javafx-sdk-20_production/lib --add-modules=javafx.controls,javafx.media" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

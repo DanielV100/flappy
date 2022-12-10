@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="JavaCV">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/javacv-platform-1.5.8-bin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/javacv-platform-1.5.8-bin/samples" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/javacv-platform-1.5.8-bin" recursive="false" />
+  </library>
+</component>
